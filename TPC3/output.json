@@ -1,0 +1,282 @@
+{
+    "Registos": [
+        {
+            "id": "575",
+            "date": {
+                "year": "1894",
+                "month": "11",
+                "day": "08"
+            },
+            "name": "Aarao Pereira Silva",
+            "father": "Antonio Pereira Silva",
+            "mother": "Francisca Campos Silva",
+            "family": []
+        },
+        {
+            "id": "582",
+            "date": {
+                "year": "1909",
+                "month": "05",
+                "day": "12"
+            },
+            "name": "Abel Almeida",
+            "father": "Antonio Manuel Almeida",
+            "mother": "Teresa Maria Sousa",
+            "family": []
+        },
+        {
+            "id": "569",
+            "date": {
+                "year": "1867",
+                "month": "05",
+                "day": "23"
+            },
+            "name": "Abel Alves Barroso",
+            "father": "Antonio Alves Barroso",
+            "mother": "Maria Jose Alvares Barroso",
+            "family": [
+                {
+                    "name": [
+                        "Bento Alvares Barroso"
+                    ],
+                    "relation": "Tio Paterno",
+                    "process": "32057"
+                },
+                {
+                    "name": [
+                        " Domingos Jose Alvares Barroso"
+                    ],
+                    "relation": "Tio Materno",
+                    "process": "32235"
+                }
+            ]
+        },
+        {
+            "id": "576",
+            "date": {
+                "year": "1896",
+                "month": "11",
+                "day": "28"
+            },
+            "name": "Abel Augusto Oliveira",
+            "father": "Francisco Jose Oliveira",
+            "mother": "Antonia Rosa Rebelo",
+            "family": [
+                {
+                    "name": [
+                        "Jose Antonio Oliveira"
+                    ],
+                    "relation": "Irmao",
+                    "process": "5020"
+                }
+            ]
+        },
+        {
+            "id": "579",
+            "date": {
+                "year": "1904",
+                "month": "05",
+                "day": "27"
+            },
+            "name": "Abel Gomes Abreu Reis",
+            "father": "Antonio Gomes Abreu",
+            "mother": "Ana Sequeira Reis",
+            "family": []
+        },
+        {
+            "id": "579",
+            "date": {
+                "year": "1904",
+                "month": "05",
+                "day": "21"
+            },
+            "name": "Abel Marques Reis",
+            "father": "Jose Joaquim Marques Reis",
+            "mother": "Bernardina Dantas",
+            "family": []
+        },
+        {
+            "id": "578",
+            "date": {
+                "year": "1901",
+                "month": "11",
+                "day": "12"
+            },
+            "name": "Abel Martins Pereira",
+            "father": "Serafim Martins Pereira",
+            "mother": "Emilia Goncalves",
+            "family": []
+        },
+        {
+            "id": "572",
+            "date": {
+                "year": "1883",
+                "month": "02",
+                "day": "01"
+            },
+            "name": "Abel Pedro Pereira Freitas",
+            "father": "Joao Freitas Oliveira",
+            "mother": "Cecilia Rosa Pereira",
+            "family": []
+        },
+        {
+            "id": "578",
+            "date": {
+                "year": "1900",
+                "month": "08",
+                "day": "30"
+            },
+            "name": "Abel Silva Carvalho",
+            "father": "Constantino Silva Rego",
+            "mother": "Margarida Rosa Carvalho",
+            "family": []
+        },
+        {
+            "id": "575",
+            "date": {
+                "year": "1894",
+                "month": "04",
+                "day": "30"
+            },
+            "name": "Abelardo Jose Cerqueira Araujo",
+            "father": "Jose Maria Araujo",
+            "mother": "Leopoldina Cerqueira Ribeiro Araujo",
+            "family": []
+        },
+        {
+            "id": "575",
+            "date": {
+                "year": "1894",
+                "month": "04",
+                "day": "30"
+            },
+            "name": "Abelardo Jose Cerqueira Araujo",
+            "father": "Jose Maria Araujo",
+            "mother": "Leopoldina Cerqueira Ribeiro Araujo",
+            "family": []
+        },
+        {
+            "id": "572",
+            "date": {
+                "year": "1883",
+                "month": "11",
+                "day": "24"
+            },
+            "name": "Abilio Acacio Conceicao Guerreiro",
+            "father": "Jose Antonio Pereira Dantas Guerreiro",
+            "mother": "Maria Rita Pereira Monteiro",
+            "family": []
+        },
+        {
+            "id": "579",
+            "date": {
+                "year": "1902",
+                "month": "10",
+                "day": "23"
+            },
+            "name": "Abilio Aires Sousa Pereira Guimaraes",
+            "father": "Joaquim Aires Sousa Pereira Guimaraes",
+            "mother": "Josefa Rosa Gomes",
+            "family": []
+        },
+        {
+            "id": "571",
+            "date": {
+                "year": "1880",
+                "month": "01",
+                "day": "24"
+            },
+            "name": "Abilio Antonio Alves",
+            "father": "Joao Francisco Alves",
+            "mother": "Maria Jesus Rocha",
+            "family": []
+        },
+        {
+            "id": "573",
+            "date": {
+                "year": "1889",
+                "month": "12",
+                "day": "03"
+            },
+            "name": "Abilio Augusto Arantes",
+            "father": "Sebastiao Arantes",
+            "mother": "Maria Sousa",
+            "family": []
+        },
+        {
+            "id": "581",
+            "date": {
+                "year": "1908",
+                "month": "08",
+                "day": "11"
+            },
+            "name": "Abilio Augusto Galvao",
+            "father": "Antonio Augusto Galvao",
+            "mother": "Perpetua Duarte Galvao",
+            "family": []
+        },
+        {
+            "id": "581",
+            "date": {
+                "year": "1908",
+                "month": "05",
+                "day": "20"
+            },
+            "name": "Abilio Augusto Magalhaes",
+            "father": "",
+            "mother": "Maria Jesus Magalhaes",
+            "family": []
+        },
+        {
+            "id": "581",
+            "date": {
+                "year": "1908",
+                "month": "05",
+                "day": "20"
+            },
+            "name": "Abilio Augusto Magalhaes",
+            "father": "",
+            "mother": "Maria Jesus Magalhaes",
+            "family": []
+        },
+        {
+            "id": "581",
+            "date": {
+                "year": "1908",
+                "month": "05",
+                "day": "20"
+            },
+            "name": "Abilio Augusto Magalhaes",
+            "father": "",
+            "mother": "Maria Jesus Magalhaes",
+            "family": []
+        },
+        {
+            "id": "569",
+            "date": {
+                "year": "1869",
+                "month": "12",
+                "day": "02"
+            },
+            "name": "Abilio Augusto Santos",
+            "father": "Jose Joaquim Santos",
+            "mother": "Teresa Jesus",
+            "family": [
+                {
+                    "name": [
+                        "Antonio Jose Adao"
+                    ],
+                    "relation": "Tio Materno",
+                    "process": "12530"
+                },
+                {
+                    "name": [
+                        " Albino Antonio Ribeiro"
+                    ],
+                    "relation": "Primo Paterno",
+                    "process": "12721"
+                }
+            ]
+        }
+    ]
+}
