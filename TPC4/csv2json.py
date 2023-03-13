@@ -42,6 +42,10 @@ def parse_header(header):
 
             # Replace field with list
             fields[i] = obj
+        elif re.findall(r'::', fields[i]):
+            obj=re.split(r'::', fields[i])
+            fields[i] = obj
+
         else:
 
             # If field is simple put it in a list
@@ -76,10 +80,15 @@ def parse_line(line, fields):
 
         # If list
         else:
-
+            min=1
+            if len(i)==2 and not re.match(r'\d+', str(i[1])):
+                expr=i[1]
+                max=min
+            elif len(i)==2: 
+                max=min
+                min=i[1]
             # Get min and max values of list elements
-            min=i[1]
-            if len(i)==3 and re.match(r'\d+', str(i[2])):
+            elif len(i)==3 and re.match(r'\d+', str(i[2])):
                 max=i[2]
                 expr=None
             elif len(i)==3:
@@ -104,6 +113,8 @@ def parse_line(line, fields):
                 at+=1
                 nat+=1
 
+            if len(arr)==1:
+                arr=arr[0]
             # Calculate value if its a complex fields
             if expr:
                 dic[i[0]]=calc(expr,arr)
